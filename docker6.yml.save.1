@@ -1,0 +1,33 @@
+---
+- name: Build and Run Docker Image on Ubuntu 
+  hosts: all 
+  tasks:
+    - name: Install Docker
+      package:
+        name: docker.io
+        state: present
+      when: ansible_os_family in ['Debian']  
+
+    - name: Start Docker service
+      service:
+        name: docker
+        state: started
+        enabled: yes
+
+    - name: Build Docker image
+      docker_image:
+        path: /Home/FinalProjDocker/sysad_html 
+        name: finalprojdocker         
+        tag: latest                   
+        state: present
+
+    - name: Run Docker container from the built image
+      docker_container:
+        name: my_nginx_container      
+        image: finalprojdocker      
+        state: started                 
+        ports:
+          - "8000:80"                
+
+
+

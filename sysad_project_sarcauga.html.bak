@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Final Project - Group 4 </title> 
+<style>
+h1 {
+	color: white;
+	text-align: center;
+	background-color: black;
+	border-radius: 20px;
+	padding: 20px;
+}
+
+h2 {
+	color: black;
+	text-indent: 50px;
+	size: 20px;
+	margin-left: 80px;
+}
+</style>
+</head>
+<body>
+ <link rel="stylesheet"; href = "cpe212_finalproject.css">
+ <h1> CPE212 Final Project - Group 4 </h1>
+ 
+ <div>
+ <h2 id="name"><img src="sarcauga.jpg" alt="picture of Dexter Sarcauga" style="float:left;width:190px;height:255px;">
+ <strong> Dexter Sarcauga </strong></h2>
+ <h2 id="studentnum"><strong> 2210797 </strong></h2>
+ <h2 id="section"><strong> CPE31S21 </strong></h2>
+ <h2 id="schoolyear"><strong> 1st sem / 2024-2025 </strong></h2> 
+ <br><br>
+<table>
+  <tr>
+    <th>Prelim HOAs</th>
+    <th>Midterm HOAs</th>
+    <th>Finals HOAs</th>
+	<th> Prelim Exam </th>
+	<th> Midterm Exam </th>
+	<th> Final Exam </th>
+	<th> Reflection & Learnings </th>
+  </tr>
+  <tr>
+  
+    <td><a href="https://drive.google.com/file/d/1C2HlcQ11J7KURvR5XmzOAXq6evgigKnS/view?usp=drive_link">HOA 1.1</a></td>
+    <td><a href="https://drive.google.com/file/d/1NRiERWWdQinvCauVjwDw3xQV6V-BGkNQ/view?usp=drive_link">HOA 6.1</a></td>
+    <td><a href="https://drive.google.com/file/d/1Af3ybZBNuZRUv5d3pk4GADTpSGSfXF1P/view?usp=drive_link">HOA 11.1</a></td>
+	<td rowspan="5"><a href="https://drive.google.com/file/d/14lrz7D-EhYGJ">Prelim Skills Exam</a></td>
+	<td rowspan="5"><a href="https://drive.google.com/file/d/14lrz7D-EhYGJqBpHYPLDykvfubHk1n-p/view?usp=drive_link">Midterm Skills Exam</a></td>
+	<td rowspan="5"> Final Exam <br> *not taken yet </td>
+	<td rowspan="5"> Reflection </td>
+  </tr>
+  <tr>
+    <td><a href="https://drive.google.com/file/d/1BVLA_h9ndT1xMugR1Y4J4-NDPeNg_m0F/view?usp=drive_link">HOA 2.1</a></td>
+    <td><a href="https://drive.google.com/file/d/1gkmEk5aaNgyROsbjezXT3zrHS5p64jBE/view?usp=drive_link">HOA 7.1</a></td>
+    <td><a href="https://drive.google.com/file/d/1FWPob1PpvH0Uzn0g-OG3GOZK6CaDuxT4/view?usp=drive_link">HOA 12.1</a></td>
+  </tr>
+  <tr>
+	<td><a href="https://drive.google.com/file/d/1cf4j6edsTvjlbjbXTljX_kK1rQc1WBCl/view?usp=drive_link">HOA 3.1</a></td>
+	<td><a href="https://drive.google.com/file/d/1-3m_wx8w4zthkh7W_9bBMegsH9_t8frD/view?usp=drive_link">HOA 8.1</a></td>
+    <td><a href="">HOA 13.1</a></td>
+  </tr>
+  <tr>
+	<td><a href="https://drive.google.com/file/d/19obabYe7e0a9Mo8H4DCh7N4Hy6WeuOtG/view?usp=drive_link">HOA 4.1</a></td>
+	<td><a href="https://drive.google.com/file/d/14RPGdG2sXKkY8QpcWeQ6avJfSY77rD6M/view?usp=drive_link">HOA 9.1</a></td>
+    <td> <a href=""> HOA 14.1 </a> </td>
+  </tr>
+  <tr>
+	<td><a href="https://drive.google.com/file/d/1TAcAHxQr4qVOqLpb9xcRjPUhk8Fa3EAK/view?usp=drive_link">HOA 5.1</a></td>
+	<td><a href="https://drive.google.com/file/d/1HnmyU7ynNhHsMiLCb8CrNFtEqzqoZ5br/view?usp=drive_link">HOA 10.1</a></td>
+    <td> <a href=""> HOA 15.1 </a> </td>
+  </tr>
+ </div> 
+  <br><br><br>
+
+  
+</table>
+ </table>
+</body>
+</html>

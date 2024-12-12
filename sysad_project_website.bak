@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head> <title> Final Project - Group 4 </title> 
+<style>
+h1 {
+	color: white;
+	text-align: center;
+	background-color: black;
+	border-radius: 20px;
+	padding: 20px;
+}
+</style>
+</head>
+<body>
+	<link rel="stylesheet"; href = "cpe212_finalproject.css">
+	<h1> CPE212 Final Project - Group 4 </h1>
+</body>
+</html>

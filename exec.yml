@@ -1,0 +1,1 @@
+ansbile-playbook --ask-become-pass exec.yaml

@@ -1,0 +1,7 @@
+[web_servers]
+Workstation ansible_host_all=192.168.56.110 ansible_ssh_user=urbanodheen
+Server1 ansible_host_all=192.168.56.111 ansible_ssh_user=urbanodheen
+
+
+
+
